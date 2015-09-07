@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "version": "",
+  "authors": [
+    "TjerkDames <t.dames@weblake.de>", 
+    "TimoJungblut <t.jungblut@weblake.de>"
+  ],
+  "description": "",
+  "keywords": [
+   
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    
+  },
+  "install" : {
+    "path" : {
+      "css": "assets/styles/modules",
+      "js": "src/modules"
+    }
+  }
+}

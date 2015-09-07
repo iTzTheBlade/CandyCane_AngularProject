@@ -1,0 +1,7 @@
+**/.DS_Store
+application
+node_modules
+bower_components
+nbproject 
+nbproject/
+npm-debug.log
